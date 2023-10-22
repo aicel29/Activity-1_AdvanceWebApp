@@ -20,7 +20,7 @@ const input = ref('')
     <p v-else-if="input == 'net'">Networking</p>
     <p v-else>Others</p>
 
-    <p v-if="input == 'web'">
+    <p v-if="input == 'web'"></p>
     <p>Web Development 2.0</p>
     </p>
     <!-- commit and push -->
