@@ -22,6 +22,7 @@ const input = ref('')
 
     <p v-if="input == 'web'"></p>
     <p>Web Development 2.0</p>
-    </p>
+    
+
     <!-- commit and push -->
 </template>
